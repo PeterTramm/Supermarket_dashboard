@@ -1,28 +1,32 @@
 # Supermarket_dashboard
 
-<details>
-        <summary>Table of contents</summary><center>
-        <ol>
-            <a href="#about-this-project"> About This Project</a>
-            <br>
-            <a href="#project-display"> Project Display</a>
-            <br>
-            <a href="#project-results"> Project Results</a>
-            <br>
-            <a href="#Acknowledgements"> Acknowledgements</a>
+<details align="center">
+    <summary>Table of contents</summary>
+        <ul>
+            <a href="#about-this-project"> About this Project</a></ul>
+        <ul>
+            <a href="#project-display"> Project Display</a></ul>
+        <ul>
+            <a href="#project-results"> Project Results</a></ul>
+        <ul>
+            <a href="#Acknowledgements"> Acknowledgements</a></ul>
 
 
 
 </details>
 
-<br>
+# About this project
 
-# About This Project 
-<div>
+<div align = "center">
     <ol> 
-        <ol> Objective of Project</ol>
+        <ol> <b><i>Objective of Project</b></i></ol>
+            <ul>
+                <p> To create a dashboard for supermarket sales data
         <ol> Technical usages 
-    </ol>
+            <br>
+            <img src ="https://img.shields.io/badge/Tableu-10EAE3" alt="Tableau">
+            <img src = "https://img.shields.io/badge/Python-38EA10">
+
 </div>
 
 ## Project Display 
