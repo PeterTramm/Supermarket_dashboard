@@ -3,3 +3,6 @@
 
 #Ignore Zip files 
 *.zip
+
+#Ignore ipynb_checkpoints
+.ipynb_checkpoints
