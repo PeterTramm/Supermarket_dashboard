@@ -32,7 +32,7 @@
 
 ## [Project Display](https://public.tableau.com/views/SupermarketDashboard_17109782285080/SuperMarketDashboard?:language=en-GB&publish=yes&:sid=&:display_count=n&:origin=viz_share_link)
 
-<div align = "centre>
+<br>
 
 <img src="https://github.com/PeterTramm/Supermarket_dashboard/blob/macBranch/Assests/Dashboard.png"/>
 
@@ -41,7 +41,6 @@
 <p align = "left"> Last updated 21/03/2024 </p>
 
 
-</div>
 
 
 ## Project Results 
