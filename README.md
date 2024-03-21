@@ -34,7 +34,7 @@
 
 <div align = "centre>
 
-<img src="https://github.com/PeterTramm/Supermarket_dashboard/blob/macBranch/Assests/Dashboard.png" width="100%" align = "centre" />
+<img src="https://github.com/PeterTramm/Supermarket_dashboard/blob/macBranch/Assests/Dashboard.png"/>
 
 <br>
 
