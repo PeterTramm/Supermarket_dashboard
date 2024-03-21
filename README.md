@@ -1,6 +1,6 @@
 # Supermarket_dashboard
 
-<details align="center">
+<details>
     <summary>Table of contents</summary>
         <ul>
             <a href="#about-this-project"> About this Project</a></ul>
@@ -15,7 +15,7 @@
 
 </details>
 
-# About this project
+# About this project 
 
 <div align = "center">
     <ol> 
@@ -29,10 +29,20 @@
 
 </div>
 
-## Project Display 
-<div>
+
+## [Project Display](https://public.tableau.com/views/SupermarketDashboard_17109782285080/SuperMarketDashboard?:language=en-GB&publish=yes&:sid=&:display_count=n&:origin=viz_share_link)
+
+<div align = "centre>
+
+<img src="https://github.com/PeterTramm/Supermarket_dashboard/blob/macBranch/Assests/Dashboard.png" width="50%" align = "centre" />
+
+<br>
+
+<p align = "left"> Last updated 21/03/2024 </p>
+
 
 </div>
+
 
 ## Project Results 
 <div>
@@ -40,3 +50,5 @@
 </div>
 
 ## Acknowledgements 
+
+
