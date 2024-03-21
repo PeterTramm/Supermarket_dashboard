@@ -36,6 +36,8 @@
 
 <img src="https://github.com/PeterTramm/Supermarket_dashboard/blob/macBranch/Assests/Dashboard.png"/>
 
+<img src="https://github.com/PeterTramm/PeterTramm/blob/macBranch/assests/Certificate.png" width="50%" align = "centre" />
+
 <br>
 
 <p align = "left"> Last updated 21/03/2024 </p>
