@@ -35,7 +35,9 @@
 <!-- Display image of project -->
 <img src="https://github.com/PeterTramm/Supermarket_dashboard/blob/macBranch/Assests/Dashboard.png"/>
 <br>
+
 <!-- Define last update for project if necessary -->
+
 [Last updated 21/03/2024](https://public.tableau.com/views/SupermarketDashboard_17109782285080/SuperMarketDashboard?:language=en-GB&publish=yes&:sid=&:display_count=n&:origin=viz_share_link)
 
 
